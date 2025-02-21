@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-comfortaa {
+    font-family: 'Comfortaa', cursive;
+}
+
+.font-jost {
+    font-family: 'Jost', sans-serif;
+}
+
